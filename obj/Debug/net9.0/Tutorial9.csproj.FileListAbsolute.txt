@@ -62,7 +62,6 @@ C:\Users\29vas\Desktop\Tutorial9\obj\Debug\net9.0\Tutorial9.AssemblyInfo.cs
 C:\Users\29vas\Desktop\Tutorial9\obj\Debug\net9.0\Tutorial9.csproj.CoreCompileInputs.cache
 C:\Users\29vas\Desktop\Tutorial9\obj\Debug\net9.0\Tutorial9.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\29vas\Desktop\Tutorial9\obj\Debug\net9.0\Tutorial9.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\29vas\Desktop\Tutorial9\obj\Debug\net9.0\Tutorial9.sourcelink.json
 C:\Users\29vas\Desktop\Tutorial9\obj\Debug\net9.0\scopedcss\bundle\Tutorial9.styles.css
 C:\Users\29vas\Desktop\Tutorial9\obj\Debug\net9.0\staticwebassets.build.json
 C:\Users\29vas\Desktop\Tutorial9\obj\Debug\net9.0\staticwebassets.development.json
